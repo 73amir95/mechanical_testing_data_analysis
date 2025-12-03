@@ -1,7 +1,7 @@
 # Mechanical Testing Data Analysis
 
 ## Overview
-This Python script processes mechanical testing data from the Excel file `experiment\excel_file.xlsx`. It cleans the data, segments it into cycles based on significant changes in force (`Kraft [N]`), generates time-force plots for each cycle, and exports the segmented data to separate Excel files. The script is designed to analyze time-series data related to force, stress, displacement, length, and strain.
+It cleans the data, segments it into cycles based on significant changes in force (`Kraft [N]`), generates time-force plots for each cycle, and exports the segmented data to separate Excel files. The script is designed to analyze time-series data related to force, stress, displacement, length, and strain.
 
 ## Dependencies
 To run the script, ensure the following Python libraries are installed:
